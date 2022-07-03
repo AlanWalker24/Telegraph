@@ -8,7 +8,7 @@
 
 ### Deploy to Heroku 🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/War-Legend/Telegraph)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlanWalker24/Telegraph)
 
 ### Credits:
 
